@@ -1,0 +1,16 @@
+/* src/styles/theme.css */
+:root {
+    --color-primary: #1d4ed8;    /* Blue-700 */
+    --color-secondary: #9333ea;  /* Purple-600 */
+    --color-accent: #e11d48;     /* Rose-600 */
+    --color-background: #ffffff; /* White */
+    --color-text: #1f2937;       /* Gray-800 */
+  }
+
+.theme-dark {
+  --color-primary: #2563eb;
+  --color-secondary: #7c3aed;
+  --color-accent: #db2777;
+  --color-background: #1f2937;
+  --color-text: #f9fafb;
+}
